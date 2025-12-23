@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, Im Seth 👋
 
-<!--
-**SethnalCS/SethnalCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im an aspiring undergraduate Computer Science Student with a strong intrest in Cyber Security and secure systems.
 
-Here are some ideas to get you started:
+## My Academic Goals:
+I plan to pursue a Bachelors's degree in Computer Science, focusing on cyber security and secure software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Harvard CS50x (Computer Science fundamentals)
+- Python programming
+- Basic networking and security concepts
+
+## Featured Projects
+- Passoword strength checker
+- Secure login system with hashing
+- Educational port scanner
+- Input validation and secure coding demos
+
+## Why Cyber Security?
+Im intrested in cyber security because as technology advances its important that all systems are better protected against a growing digital threat especially as data becomes more valuable. I want to learn how vulnearabilities occur and how secure systems are designed
+
+## Notes
+ALL projects are built for purpoes and follow ethical guidelines.
